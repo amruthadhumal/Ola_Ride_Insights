@@ -1,2 +1,3 @@
 # Ola_Ride_Insights
 OLA, a leading ride-hailing service, generates vast amounts of data related to ride bookings, driver availability and customer preferences. However, deriving actionable insights from this data remains a challenge. To improve customer satisfaction, and optimize business strategies, this project focuses on analyzing OLA’s ride-sharing data.
+The project will involve cleaning and processing raw ride data, performing exploratory data analysis (EDA), developing a dynamic Power BI dashboard, and creating a Streamlit-based web application to present key findings in an interactive and user-friendly manner.
