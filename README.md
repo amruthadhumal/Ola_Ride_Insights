@@ -180,12 +180,23 @@ Dashboard display the SQL results:
 ---
 ## 🚀 Business Impact
 
+The Ola Ride Insights project provides valuable insights into ride bookings, customer behavior, revenue performance, cancellations, and service quality through SQL analysis and interactive Power BI dashboards.
+
+Key Benefits
+* Monitors ride demand and booking trends over time, helping businesses understand usage patterns and plan operations effectively.
+* Identifies the most frequently used vehicle types and analyzes ride distances to support fleet optimization.
+* Tracks revenue performance across different payment methods and highlights high-value customers contributing significantly to business revenue.
+* Analyzes customer and driver cancellation reasons, helping identify operational challenges and opportunities to reduce ride cancellations.
+* Evaluates driver and customer ratings to measure service quality and improve overall user experience.
+* Helps business/stakeholders quickly access key performance metrics through interactive and easy-to-understand Power BI visualizations.
 
 ---
 
 ## 📌 Conclusion
 
+The Ola Ride Insights project demonstrates the effective use of SQL and Power BI to analyze ride-hailing business data and uncover actionable insights. SQL queries were used to extract and analyze key metrics such as successful bookings, ride distances, cancellations, customer activity, revenue, and ratings. Power BI dashboards transformed these insights into interactive visual reports, making it easier to monitor business performance and identify trends.
 
+Overall, the project highlights how data analytics can be used to improve operational efficiency, understand customer behavior, track revenue performance, and support informed business decision-making in the ride-sharing industry.
 
 
 
