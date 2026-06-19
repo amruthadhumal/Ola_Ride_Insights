@@ -57,7 +57,7 @@ Power BI visualization
 Streamlit Dashboard
 ```
 
-## Power BI Visuals
+## 📊 Power BI Visuals
 
 Segregation of the views:
 
@@ -105,7 +105,7 @@ Segregation of the views:
 
 ---
 
-## Streamlit Dashboard
+## 📊 Streamlit Dashboard
 
 Dashboard display the SQL results:
 
@@ -178,7 +178,7 @@ Dashboard display the SQL results:
 
 
 ---
-## 📊 Business Impact
+## 🚀 Business Impact
 
 
 ---
