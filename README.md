@@ -192,6 +192,7 @@ Key Benefits
 
 ---
 
+
 ## 📌 Conclusion
 
 The Ola Ride Insights project demonstrates the effective use of SQL and Power BI to analyze ride-hailing business data and uncover actionable insights. SQL queries were used to extract and analyze key metrics such as successful bookings, ride distances, cancellations, customer activity, revenue, and ratings. Power BI dashboards transformed these insights into interactive visual reports, making it easier to monitor business performance and identify trends.
