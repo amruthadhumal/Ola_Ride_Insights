@@ -57,4 +57,45 @@ Power BI visualization
 Streamlit Dashboard
 ```
 
+## Power BI Visuals
+
+Segregation of the views:
+
+### 1. Overall 
+ -  Ride Volume Over Time
+ - Booking Status Breakdown 
+<img width="880" height="591" alt="Overall" src="https://github.com/user-attachments/assets/7e0ae003-2b9c-4551-856a-5985cce3f619" />
+
+---
+
+### 2. Vehicle Type 
+ - Top 5 Vehicle Types by Ride Distance
+
+<img width="865" height="578" alt="VehicleType" src="https://github.com/user-attachments/assets/1cfd29a9-451b-4dcc-be9b-1aeb4db23068" />
+
+---
+
+### 3. Revenue
+ - Revenue by Payment Method
+ - Top 5 Customers by Total Booking Value
+ - Ride Distance Distribution Per Day
+
+<img width="865" height="601" alt="Revenue" src="https://github.com/user-attachments/assets/9eb708cf-1f2f-4891-afec-1dce51615abd" />
+
+---
+
+ ### 4. Cancellation
+- Cancelled Rides Reasons (Customer) 
+- cancelled Rides Reasons(Drivers)
+
+<img width="857" height="589" alt="Cancellation" src="https://github.com/user-attachments/assets/a65a6b7b-8912-4eb9-8639-4949783b67e1" />
+
+---
+
+### 5. Ratings 
+- Driver Ratings 
+- Customer Ratings 
+
+<img width="843" height="583" alt="Ratings" src="https://github.com/user-attachments/assets/43cd169c-ffb4-4291-a015-e565f94c0681" />
+
 ---
